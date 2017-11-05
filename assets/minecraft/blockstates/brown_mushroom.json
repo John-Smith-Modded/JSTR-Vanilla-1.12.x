@@ -1,0 +1,10 @@
+{
+    "__comment": "JimStoneCraft - 2014",
+    "variants": {
+        "normal": [
+            { "model": "brown_mushroom" },
+            { "model": "brown_mushroom1" },
+            { "model": "brown_mushroom2" }
+        ]
+    }
+}

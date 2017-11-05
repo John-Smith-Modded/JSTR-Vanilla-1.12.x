@@ -1,0 +1,11 @@
+{
+    "__comment": "JimStoneCraft - 2015",
+    "variants": {
+        "normal": [
+            { "model": "grass_path" },
+            { "model": "grass_path", "y": 90 },
+            { "model": "grass_path", "y": 180 },
+            { "model": "grass_path", "y": 270 }
+        ]
+    }
+}

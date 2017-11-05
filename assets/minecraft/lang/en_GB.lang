@@ -1,0 +1,36 @@
+
+language.name=English
+language.region=UK
+language.code=en_UK
+
+resourcePack.available.title=§r§nAvailable Resource Packs§r
+resourcePack.selected.title=§r§nSelected Resource Packs§r
+
+container.inventory=§7Inventory§r
+container.hopper=§7Item Hopper§r
+container.crafting=§7Crafting§r
+container.dispenser=§7Dispenser§r
+container.dropper=§7Dropper§r
+container.furnace=§7Furnace§r
+container.enchant=§7Enchant§r
+container.repair=§7Repair & Name§r
+container.creative=§7Item Selection§r
+container.brewing=§7Brewing Stand§r
+container.chest=§7Chest§r
+container.chestDouble=§7Large Chest§r
+container.minecart=§7Minecart§r
+container.enderchest=§7Ender Chest§r
+container.beacon=§7Beacon§r
+
+itemGroup.buildingBlocks=§7Building Blocks§r
+itemGroup.decorations=§7Decoration Blocks§r
+itemGroup.redstone=§7Redstone§r
+itemGroup.transportation=§7Transportation§r
+itemGroup.misc=§7Miscellaneous§r
+itemGroup.search=§7Search Items§r
+itemGroup.food=§7Foodstuffs§r
+itemGroup.tools=§7Tools§r
+itemGroup.combat=§7Combat§r
+itemGroup.brewing=§7Brewing§r
+itemGroup.materials=§7Materials§r
+itemGroup.inventory=§7Survival Inventory§r

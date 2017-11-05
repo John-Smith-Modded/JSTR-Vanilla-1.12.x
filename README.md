@@ -1,0 +1,1 @@
+# JSTR-Vanilla-1.10.x
