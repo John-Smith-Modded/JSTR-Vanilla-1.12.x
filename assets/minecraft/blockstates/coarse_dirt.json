@@ -1,8 +1,8 @@
 {
     "variants": {
         "normal": [
-            { "model": "coarse_dirt", "weight": 60 },
-            { "model": "coarse_dirt1", "weight": 40 }
+            { "model": "coarse_dirt", "weight": 50 },
+            { "model": "coarse_dirt1", "weight": 50 }
         ]
     }
 }
