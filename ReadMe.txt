@@ -4,8 +4,9 @@ John Smith Technicians Remix - Resource Pack
 
 for Modded Minecraft
 
-http://js-legacy.net/
+https://www.curseforge.com/minecraft/texture-packs/john-smith-legacy-modded
 https://github.com/John-Smith-Modded
+http://js-legacy.net/
 http://www.johnsmithlegacy.co.uk/
 
 ====================================================================================================
@@ -14,14 +15,9 @@ Thank you for downloading this Resource Pack.
 
 Please follow these instructions carefully.
 
-NOTE:- This Resource Pack will not work with versions of Minecraft older than 1.9.
+NOTE:- This Resource Pack is designed for Minecraft version 1.12.
 
-For Resource Pack and older Texture pack releases (1.7.10, 1.62, 1.52 and 1.47), see the
-Resource Pack History on the John Smith Technicians Remix website.
-
-http://js-legacy.net/
-https://github.com/John-Smith-Modded
-http://www.johnsmithlegacy.co.uk/
+Releases for other versions of Minecraft can be found on our CurseForge page.
 
 
 -Installation Instructions--------------------------------------------------------------------------
@@ -51,8 +47,13 @@ press Enter:
 %appdata%/.minecraft/resourcepacks
 
 
-Copy/Move the file "JSTR_Universal_1.9.x.zip" into the ".minecraft/resourcepacks" folder (you don't
-need extract it!).
+Copy/Move the file "JSTR Universal" into the ".minecraft/resourcepacks" folder 
+(you don't need extract it!).
+
+
+OPTIONAL: For the smooth look of older JSTR packs, extract the "JSTR Smooth 
+Overwrite Patch" folder from the zip file into the resource pack folder. 
+Apply it on top of "JSTR Universal" in the resource pack menu.
 
 
 -Selecting the Resource Pack------------------------------------------------------------------------
@@ -63,7 +64,11 @@ On the Minecraft title screen select "Options"
 
 Select "Resource Packs" (bottom left).
 
-Then select "JSTR_Universal_1.9.x". (or whatever the latest version is)
+Find "JSTR Universal" in the left column and click the arrow.
+
+OPTIONAL: Put "Smooth Overwrite Patch" on top of "JSTR Universal" in the right column.
+
+Click "Done"
 
 
 That's all,
