@@ -1,1 +1,1 @@
-# JSTR-Vanilla-1.10.x
+# JSTR-Vanilla-1.12.x
