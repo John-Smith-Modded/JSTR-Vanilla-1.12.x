@@ -6,7 +6,6 @@ for Modded Minecraft
 
 https://www.curseforge.com/minecraft/texture-packs/john-smith-legacy-modded
 https://github.com/John-Smith-Modded
-http://js-legacy.net/
 http://www.johnsmithlegacy.co.uk/
 
 ====================================================================================================
