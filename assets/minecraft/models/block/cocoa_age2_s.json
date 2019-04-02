@@ -4,7 +4,7 @@
     "textures": {
         "particle": "blocks/cocoa_stage_2",
         "cocoa": "blocks/cocoa_stage_2",
-        "cocoa_stem": "blocks/cocoa_stem_stage_2"
+        "cocoa_stem": "blocks/cocoa_stage_2"
     },
     "elements": [
         {   "from": [ 4, 3, 7 ],
