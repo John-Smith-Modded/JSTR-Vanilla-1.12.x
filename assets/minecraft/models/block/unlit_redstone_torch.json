@@ -1,8 +1,8 @@
 {
-    "__comment": "JimStoneCraft - 2016",
+    "__comment": "Lesdmark - 2019",
     "parent": "block/redstone_torch",
     "textures": {
-        "redstone_torch": "blocks/redstone_torch_off",
+        "redstone_torch": "blocks/redstone_torch",
         "particle": "blocks/redstone_torch_particle"
     }
 }
